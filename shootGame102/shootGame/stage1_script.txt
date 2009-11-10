@@ -1,0 +1,21 @@
+
+##BGM 0
+PLAY    0;
+WAIT    2000;
+
+
+
+ENEMY   e1,1,500,100;
+WAIT    1000;
+ENEMY   e2,1,500,200;
+WAIT    1000;
+ENEMY   e3,1,500,300;
+WAIT    1000;
+ENEMY   e4,1,500,400;
+WAIT    1000;
+ENEMY   e5,1,300,200;
+WAIT    1000;
+ENEMY   e6,1,300,400;
+WAIT    1000;
+##scinarioEnd
+

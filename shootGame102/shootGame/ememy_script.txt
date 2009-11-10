@@ -1,0 +1,27 @@
+ID      1;
+NAME    enemy1;
+HP      100;
+SPEED   2;
+
+##ACTION;
+### 画面枠確認
+AMOVE 0,0;
+AMOVE 640,0;
+AMOVE 0,480;
+AMOVE 640,480;
+AMOVE 0,0;
+###相対座標
+RMOVE 300,200;
+RMOVE -200,0;
+###絶対座標
+AMOVE 500,400;
+END;
+
+
+ID       2;
+NAME enemy2;
+HP 1000;
+
+##ACTION;
+RMOVE 500,240;
+END;
